@@ -23,6 +23,6 @@ module.exports = {
     devServer: {
         contentBase: path.join(__dirname, './output'), // 根目录下的output
         open: true, // 自动打开浏览器
-        port: 9000,
+        port: 9001,
     }
 }
