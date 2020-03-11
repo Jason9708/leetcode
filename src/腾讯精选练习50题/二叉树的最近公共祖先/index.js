@@ -23,7 +23,6 @@
  *              - 说明此时的p节点和q节点在根节点两侧，返回根节点
  */
 var lowestCommonAncestor = function(root, p, q) {
-    console.log('hhh')
     if (root == null || root == p || root == q) {
         return root
     }
