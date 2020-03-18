@@ -51,7 +51,9 @@
 // import './热题Hot 100/括号生成'
 // import './热题Hot 100/在排序数组中查找元素的第一个和最后一个位置'
 // import './热题Hot 100/字母异位词分组'
-import './热题Hot 100/跳跃游戏'
+// import './热题Hot 100/跳跃游戏'
+
+import './剑指offer/礼物的最大值'
 
 
 // import './整数转换为罗马数'
