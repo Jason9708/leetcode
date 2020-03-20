@@ -53,7 +53,10 @@
 // import './热题Hot 100/字母异位词分组'
 // import './热题Hot 100/跳跃游戏'
 
-import './剑指offer/礼物的最大值'
+// import './剑指offer/礼物的最大值'
+// import './剑指offer/矩阵中的路径'
+// import './剑指offer/二叉树中和为某一值的路径'
+import './剑指offer/平衡二叉树'
 
 
 // import './整数转换为罗马数'
